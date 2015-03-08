@@ -1,0 +1,48 @@
+body {
+	background:url("../images/background.jpg") no-repeat center fixed;
+	color: white;
+	font-family: Arial;
+}
+
+h1 {
+	text-align: center;
+}
+
+#div1 {
+	width: 80px;
+	height: 80px;
+	padding: 10px;
+	border: 1px solid #aaaaaa;
+	float:left;
+}
+table{
+	margin-left:auto; 
+	margin-right:auto; 
+	width: 551px; 
+	-webkit-user-select:5px; 
+	border: 2px solid grey;
+	-webkit-border-radius: 10px;
+}
+td {
+	height: 175px;
+	width: 175px;
+	text-align: center;
+	font-size: 120px;
+	border: 2px solid #cccccc;
+	-webkit-border-radius: 10px;
+}
+
+h1#win{
+	margin-left:auto; 
+	margin-right:auto; 
+	width: 551px; 
+	text-align: center;
+}
+
+#gamePieces {
+	text-align: center;
+}
+
+footer {
+	text-align: center;
+}
